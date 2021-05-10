@@ -1,0 +1,49 @@
+[2021-04-29 23:34:58,595] {scheduler_job.py:182} INFO - Started process (PID=13838) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:34:58,596] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-04-29 23:34:58,596] {logging_mixin.py:104} INFO - [2021-04-29 23:34:58,596] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:34:58,602] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:34:58,611] {logging_mixin.py:104} INFO - [2021-04-29 23:34:58,611] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:34:58,618] {logging_mixin.py:104} INFO - [2021-04-29 23:34:58,618] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-04-29 23:34:58,704] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py took 0.111 seconds
+[2021-04-29 23:35:29,126] {scheduler_job.py:182} INFO - Started process (PID=13894) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:35:29,128] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-04-29 23:35:29,129] {logging_mixin.py:104} INFO - [2021-04-29 23:35:29,129] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:35:29,145] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:35:29,158] {logging_mixin.py:104} INFO - [2021-04-29 23:35:29,158] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:29,166] {logging_mixin.py:104} INFO - [2021-04-29 23:35:29,166] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-04-29 23:35:29,250] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py took 0.130 seconds
+[2021-04-29 23:36:04,316] {scheduler_job.py:182} INFO - Started process (PID=13972) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:36:04,316] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-04-29 23:36:04,317] {logging_mixin.py:104} INFO - [2021-04-29 23:36:04,317] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:36:04,323] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:36:04,331] {logging_mixin.py:104} INFO - [2021-04-29 23:36:04,331] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:04,338] {logging_mixin.py:104} INFO - [2021-04-29 23:36:04,338] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-04-29 23:36:04,423] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py took 0.110 seconds
+[2021-04-29 23:36:35,380] {scheduler_job.py:182} INFO - Started process (PID=14030) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:36:35,381] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-04-29 23:36:35,382] {logging_mixin.py:104} INFO - [2021-04-29 23:36:35,382] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:36:35,391] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:36:35,400] {logging_mixin.py:104} INFO - [2021-04-29 23:36:35,400] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:35,413] {logging_mixin.py:104} INFO - [2021-04-29 23:36:35,413] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-04-29 23:36:35,496] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py took 0.117 seconds
+[2021-04-29 23:37:06,007] {scheduler_job.py:182} INFO - Started process (PID=14068) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:37:06,007] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-04-29 23:37:06,008] {logging_mixin.py:104} INFO - [2021-04-29 23:37:06,008] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:37:06,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:37:06,023] {logging_mixin.py:104} INFO - [2021-04-29 23:37:06,023] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:06,033] {logging_mixin.py:104} INFO - [2021-04-29 23:37:06,033] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-04-29 23:37:06,049] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-04-29 23:37:36,219] {scheduler_job.py:182} INFO - Started process (PID=14218) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:37:36,221] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-04-29 23:37:36,222] {logging_mixin.py:104} INFO - [2021-04-29 23:37:36,222] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:37:36,231] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:37:36,240] {logging_mixin.py:104} INFO - [2021-04-29 23:37:36,240] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:36,249] {logging_mixin.py:104} INFO - [2021-04-29 23:37:36,249] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-04-29 23:37:36,260] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-04-29 23:38:07,776] {scheduler_job.py:182} INFO - Started process (PID=14304) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:38:07,778] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-04-29 23:38:07,780] {logging_mixin.py:104} INFO - [2021-04-29 23:38:07,780] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:38:07,797] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py
+[2021-04-29 23:38:07,808] {logging_mixin.py:104} INFO - [2021-04-29 23:38:07,808] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:38:07,816] {logging_mixin.py:104} INFO - [2021-04-29 23:38:07,816] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-04-29 23:38:07,826] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/test_utils.py took 0.056 seconds

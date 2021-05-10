@@ -1,0 +1,49 @@
+[2021-04-29 23:35:04,732] {scheduler_job.py:182} INFO - Started process (PID=13850) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:04,732] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-04-29 23:35:04,733] {logging_mixin.py:104} INFO - [2021-04-29 23:35:04,733] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:04,739] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:04,749] {logging_mixin.py:104} INFO - [2021-04-29 23:35:04,749] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:04,756] {logging_mixin.py:104} INFO - [2021-04-29 23:35:04,756] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:35:04,764] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.035 seconds
+[2021-04-29 23:35:35,409] {scheduler_job.py:182} INFO - Started process (PID=13903) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:35,410] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-04-29 23:35:35,410] {logging_mixin.py:104} INFO - [2021-04-29 23:35:35,410] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:35,415] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:35,423] {logging_mixin.py:104} INFO - [2021-04-29 23:35:35,423] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:35,429] {logging_mixin.py:104} INFO - [2021-04-29 23:35:35,429] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:35:35,438] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.031 seconds
+[2021-04-29 23:35:53,225] {scheduler_job.py:182} INFO - Started process (PID=13960) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:53,226] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-04-29 23:35:53,226] {logging_mixin.py:104} INFO - [2021-04-29 23:35:53,226] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:53,233] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:35:53,242] {logging_mixin.py:104} INFO - [2021-04-29 23:35:53,242] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:53,249] {logging_mixin.py:104} INFO - [2021-04-29 23:35:53,249] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:35:53,335] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.112 seconds
+[2021-04-29 23:36:23,932] {scheduler_job.py:182} INFO - Started process (PID=13997) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:36:23,933] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-04-29 23:36:23,934] {logging_mixin.py:104} INFO - [2021-04-29 23:36:23,934] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:36:23,940] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:36:23,949] {logging_mixin.py:104} INFO - [2021-04-29 23:36:23,949] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:23,956] {logging_mixin.py:104} INFO - [2021-04-29 23:36:23,956] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:36:24,042] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.111 seconds
+[2021-04-29 23:36:54,681] {scheduler_job.py:182} INFO - Started process (PID=14057) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:36:54,682] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-04-29 23:36:54,683] {logging_mixin.py:104} INFO - [2021-04-29 23:36:54,682] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:36:54,688] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:36:54,697] {logging_mixin.py:104} INFO - [2021-04-29 23:36:54,696] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:54,703] {logging_mixin.py:104} INFO - [2021-04-29 23:36:54,703] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:36:54,713] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2021-04-29 23:37:25,612] {scheduler_job.py:182} INFO - Started process (PID=14133) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:37:25,614] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-04-29 23:37:25,615] {logging_mixin.py:104} INFO - [2021-04-29 23:37:25,615] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:37:25,636] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:37:25,665] {logging_mixin.py:104} INFO - [2021-04-29 23:37:25,665] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:25,685] {logging_mixin.py:104} INFO - [2021-04-29 23:37:25,685] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:37:25,775] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.169 seconds
+[2021-04-29 23:37:56,525] {scheduler_job.py:182} INFO - Started process (PID=14277) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:37:56,526] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-04-29 23:37:56,527] {logging_mixin.py:104} INFO - [2021-04-29 23:37:56,527] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:37:56,537] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2021-04-29 23:37:56,547] {logging_mixin.py:104} INFO - [2021-04-29 23:37:56,547] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:56,555] {logging_mixin.py:104} INFO - [2021-04-29 23:37:56,555] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:37:56,567] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds

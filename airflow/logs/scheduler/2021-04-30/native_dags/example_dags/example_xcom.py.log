@@ -1,0 +1,35 @@
+[2021-04-29 23:35:24,078] {scheduler_job.py:182} INFO - Started process (PID=13890) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:35:24,080] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-04-29 23:35:24,081] {logging_mixin.py:104} INFO - [2021-04-29 23:35:24,081] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:35:24,099] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:35:24,112] {logging_mixin.py:104} INFO - [2021-04-29 23:35:24,112] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:24,124] {logging_mixin.py:104} INFO - [2021-04-29 23:35:24,123] {dag.py:2280} INFO - Setting next_dagrun for example_xcom to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:35:24,132] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.061 seconds
+[2021-04-29 23:36:13,597] {scheduler_job.py:182} INFO - Started process (PID=13982) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:36:13,598] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-04-29 23:36:13,598] {logging_mixin.py:104} INFO - [2021-04-29 23:36:13,598] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:36:13,605] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:36:13,614] {logging_mixin.py:104} INFO - [2021-04-29 23:36:13,614] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:13,622] {logging_mixin.py:104} INFO - [2021-04-29 23:36:13,622] {dag.py:2280} INFO - Setting next_dagrun for example_xcom to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:36:13,705] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.110 seconds
+[2021-04-29 23:36:44,434] {scheduler_job.py:182} INFO - Started process (PID=14044) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:36:44,435] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-04-29 23:36:44,437] {logging_mixin.py:104} INFO - [2021-04-29 23:36:44,436] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:36:44,454] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:36:44,467] {logging_mixin.py:104} INFO - [2021-04-29 23:36:44,467] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:44,476] {logging_mixin.py:104} INFO - [2021-04-29 23:36:44,476] {dag.py:2280} INFO - Setting next_dagrun for example_xcom to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:36:44,561] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.134 seconds
+[2021-04-29 23:37:15,196] {scheduler_job.py:182} INFO - Started process (PID=14104) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:37:15,198] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-04-29 23:37:15,199] {logging_mixin.py:104} INFO - [2021-04-29 23:37:15,199] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:37:15,218] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:37:15,229] {logging_mixin.py:104} INFO - [2021-04-29 23:37:15,229] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:15,237] {logging_mixin.py:104} INFO - [2021-04-29 23:37:15,237] {dag.py:2280} INFO - Setting next_dagrun for example_xcom to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:37:15,246] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.055 seconds
+[2021-04-29 23:37:46,273] {scheduler_job.py:182} INFO - Started process (PID=14241) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:37:46,276] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-04-29 23:37:46,277] {logging_mixin.py:104} INFO - [2021-04-29 23:37:46,277] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:37:46,300] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-04-29 23:37:46,315] {logging_mixin.py:104} INFO - [2021-04-29 23:37:46,315] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:46,325] {logging_mixin.py:104} INFO - [2021-04-29 23:37:46,325] {dag.py:2280} INFO - Setting next_dagrun for example_xcom to 2021-04-28 00:00:00+00:00
+[2021-04-29 23:37:46,334] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds

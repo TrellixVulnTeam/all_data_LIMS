@@ -1,0 +1,1134 @@
+[2021-05-01 08:36:06,164] {scheduler_job.py:182} INFO - Started process (PID=6531) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:36:06,166] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:36:06,167] {logging_mixin.py:104} INFO - [2021-05-01 08:36:06,167] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:36:06,192] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:36:06,215] {logging_mixin.py:104} INFO - [2021-05-01 08:36:06,215] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:36:06,230] {logging_mixin.py:104} INFO - [2021-05-01 08:36:06,230] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:36:06,239] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.082 seconds
+[2021-05-01 08:36:36,467] {scheduler_job.py:182} INFO - Started process (PID=6565) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:36:36,469] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:36:36,470] {logging_mixin.py:104} INFO - [2021-05-01 08:36:36,470] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:36:36,491] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:36:36,514] {logging_mixin.py:104} INFO - [2021-05-01 08:36:36,513] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:36:36,547] {logging_mixin.py:104} INFO - [2021-05-01 08:36:36,547] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:36:36,562] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.100 seconds
+[2021-05-01 08:37:07,215] {scheduler_job.py:182} INFO - Started process (PID=6573) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:37:07,217] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:37:07,218] {logging_mixin.py:104} INFO - [2021-05-01 08:37:07,218] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:37:07,239] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:37:07,263] {logging_mixin.py:104} INFO - [2021-05-01 08:37:07,262] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:37:07,295] {logging_mixin.py:104} INFO - [2021-05-01 08:37:07,294] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:37:07,392] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.183 seconds
+[2021-05-01 08:37:37,443] {scheduler_job.py:182} INFO - Started process (PID=6587) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:37:37,446] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:37:37,448] {logging_mixin.py:104} INFO - [2021-05-01 08:37:37,447] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:37:37,468] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:37:37,491] {logging_mixin.py:104} INFO - [2021-05-01 08:37:37,490] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:37:37,521] {logging_mixin.py:104} INFO - [2021-05-01 08:37:37,520] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:37:37,613] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.175 seconds
+[2021-05-01 08:38:08,403] {scheduler_job.py:182} INFO - Started process (PID=6594) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:38:08,404] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:38:08,405] {logging_mixin.py:104} INFO - [2021-05-01 08:38:08,405] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:38:08,415] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:38:08,426] {logging_mixin.py:104} INFO - [2021-05-01 08:38:08,426] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:38:08,439] {logging_mixin.py:104} INFO - [2021-05-01 08:38:08,439] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:38:08,454] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.054 seconds
+[2021-05-01 08:38:38,658] {scheduler_job.py:182} INFO - Started process (PID=6621) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:38:38,660] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:38:38,661] {logging_mixin.py:104} INFO - [2021-05-01 08:38:38,661] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:38:38,683] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:38:38,706] {logging_mixin.py:104} INFO - [2021-05-01 08:38:38,706] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:38:38,737] {logging_mixin.py:104} INFO - [2021-05-01 08:38:38,737] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:38:38,825] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.172 seconds
+[2021-05-01 08:39:09,657] {scheduler_job.py:182} INFO - Started process (PID=6635) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:39:09,658] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:39:09,658] {logging_mixin.py:104} INFO - [2021-05-01 08:39:09,658] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:39:09,668] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:39:09,678] {logging_mixin.py:104} INFO - [2021-05-01 08:39:09,678] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:39:09,690] {logging_mixin.py:104} INFO - [2021-05-01 08:39:09,690] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:39:09,698] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.043 seconds
+[2021-05-01 08:39:39,924] {scheduler_job.py:182} INFO - Started process (PID=6662) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:39:39,926] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:39:39,927] {logging_mixin.py:104} INFO - [2021-05-01 08:39:39,927] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:39:39,947] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:39:39,967] {logging_mixin.py:104} INFO - [2021-05-01 08:39:39,967] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:39:39,994] {logging_mixin.py:104} INFO - [2021-05-01 08:39:39,993] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:39:40,022] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.103 seconds
+[2021-05-01 08:40:10,592] {scheduler_job.py:182} INFO - Started process (PID=6670) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:40:10,593] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:40:10,595] {logging_mixin.py:104} INFO - [2021-05-01 08:40:10,595] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:40:10,607] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:40:10,624] {logging_mixin.py:104} INFO - [2021-05-01 08:40:10,624] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:40:10,651] {logging_mixin.py:104} INFO - [2021-05-01 08:40:10,651] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:40:10,668] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.079 seconds
+[2021-05-01 08:40:41,086] {scheduler_job.py:182} INFO - Started process (PID=6679) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:40:41,086] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:40:41,087] {logging_mixin.py:104} INFO - [2021-05-01 08:40:41,087] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:40:41,095] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:40:41,105] {logging_mixin.py:104} INFO - [2021-05-01 08:40:41,105] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:40:41,117] {logging_mixin.py:104} INFO - [2021-05-01 08:40:41,117] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:40:41,202] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.119 seconds
+[2021-05-01 08:41:11,803] {scheduler_job.py:182} INFO - Started process (PID=6691) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:41:11,805] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:41:11,806] {logging_mixin.py:104} INFO - [2021-05-01 08:41:11,806] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:41:11,826] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:41:11,847] {logging_mixin.py:104} INFO - [2021-05-01 08:41:11,847] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:41:11,877] {logging_mixin.py:104} INFO - [2021-05-01 08:41:11,877] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:41:11,893] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.095 seconds
+[2021-05-01 08:41:42,554] {scheduler_job.py:182} INFO - Started process (PID=6699) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:41:42,555] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:41:42,556] {logging_mixin.py:104} INFO - [2021-05-01 08:41:42,556] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:41:42,567] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:41:42,583] {logging_mixin.py:104} INFO - [2021-05-01 08:41:42,583] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:41:42,613] {logging_mixin.py:104} INFO - [2021-05-01 08:41:42,613] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:41:42,630] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.079 seconds
+[2021-05-01 08:42:13,129] {scheduler_job.py:182} INFO - Started process (PID=6705) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:42:13,131] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:42:13,133] {logging_mixin.py:104} INFO - [2021-05-01 08:42:13,132] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:42:13,153] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:42:13,173] {logging_mixin.py:104} INFO - [2021-05-01 08:42:13,173] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:42:13,203] {logging_mixin.py:104} INFO - [2021-05-01 08:42:13,202] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:42:13,220] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.096 seconds
+[2021-05-01 08:42:43,811] {scheduler_job.py:182} INFO - Started process (PID=6721) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:42:43,812] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:42:43,814] {logging_mixin.py:104} INFO - [2021-05-01 08:42:43,814] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:42:43,825] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:42:43,842] {logging_mixin.py:104} INFO - [2021-05-01 08:42:43,842] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:42:43,872] {logging_mixin.py:104} INFO - [2021-05-01 08:42:43,872] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:42:43,889] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.080 seconds
+[2021-05-01 08:43:14,401] {scheduler_job.py:182} INFO - Started process (PID=6730) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:43:14,404] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:43:14,405] {logging_mixin.py:104} INFO - [2021-05-01 08:43:14,405] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:43:14,424] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:43:14,447] {logging_mixin.py:104} INFO - [2021-05-01 08:43:14,446] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:43:14,477] {logging_mixin.py:104} INFO - [2021-05-01 08:43:14,477] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:43:14,495] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.099 seconds
+[2021-05-01 08:43:45,022] {scheduler_job.py:182} INFO - Started process (PID=6736) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:43:45,024] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:43:45,025] {logging_mixin.py:104} INFO - [2021-05-01 08:43:45,025] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:43:45,045] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:43:45,065] {logging_mixin.py:104} INFO - [2021-05-01 08:43:45,065] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:43:45,095] {logging_mixin.py:104} INFO - [2021-05-01 08:43:45,094] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:43:45,113] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.096 seconds
+[2021-05-01 08:44:15,694] {scheduler_job.py:182} INFO - Started process (PID=6743) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:44:15,695] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:44:15,697] {logging_mixin.py:104} INFO - [2021-05-01 08:44:15,697] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:44:15,708] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:44:15,723] {logging_mixin.py:104} INFO - [2021-05-01 08:44:15,723] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:44:15,753] {logging_mixin.py:104} INFO - [2021-05-01 08:44:15,753] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:44:15,770] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.078 seconds
+[2021-05-01 08:44:46,202] {scheduler_job.py:182} INFO - Started process (PID=6756) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:44:46,203] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:44:46,205] {logging_mixin.py:104} INFO - [2021-05-01 08:44:46,204] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:44:46,213] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:44:46,226] {logging_mixin.py:104} INFO - [2021-05-01 08:44:46,226] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:44:46,247] {logging_mixin.py:104} INFO - [2021-05-01 08:44:46,247] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:44:46,265] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.065 seconds
+[2021-05-01 08:45:16,835] {scheduler_job.py:182} INFO - Started process (PID=6768) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:45:16,836] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:45:16,838] {logging_mixin.py:104} INFO - [2021-05-01 08:45:16,838] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:45:16,849] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:45:16,866] {logging_mixin.py:104} INFO - [2021-05-01 08:45:16,866] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:45:16,893] {logging_mixin.py:104} INFO - [2021-05-01 08:45:16,893] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:45:16,911] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.078 seconds
+[2021-05-01 08:45:47,429] {scheduler_job.py:182} INFO - Started process (PID=6776) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:45:47,431] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:45:47,432] {logging_mixin.py:104} INFO - [2021-05-01 08:45:47,432] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:45:47,452] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:45:47,476] {logging_mixin.py:104} INFO - [2021-05-01 08:45:47,475] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:45:47,502] {logging_mixin.py:104} INFO - [2021-05-01 08:45:47,502] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:45:47,519] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.096 seconds
+[2021-05-01 08:46:17,996] {scheduler_job.py:182} INFO - Started process (PID=6788) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:46:17,998] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:46:17,999] {logging_mixin.py:104} INFO - [2021-05-01 08:46:17,999] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:46:18,023] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:46:18,042] {logging_mixin.py:104} INFO - [2021-05-01 08:46:18,042] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:46:18,069] {logging_mixin.py:104} INFO - [2021-05-01 08:46:18,069] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:46:18,086] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.095 seconds
+[2021-05-01 08:46:48,666] {scheduler_job.py:182} INFO - Started process (PID=6795) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:46:48,667] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:46:48,668] {logging_mixin.py:104} INFO - [2021-05-01 08:46:48,668] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:46:48,681] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:46:48,695] {logging_mixin.py:104} INFO - [2021-05-01 08:46:48,695] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:46:48,721] {logging_mixin.py:104} INFO - [2021-05-01 08:46:48,721] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:46:48,739] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.076 seconds
+[2021-05-01 08:47:19,159] {scheduler_job.py:182} INFO - Started process (PID=6802) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:47:19,160] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:47:19,162] {logging_mixin.py:104} INFO - [2021-05-01 08:47:19,162] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:47:19,176] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:47:19,194] {logging_mixin.py:104} INFO - [2021-05-01 08:47:19,194] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:47:19,221] {logging_mixin.py:104} INFO - [2021-05-01 08:47:19,221] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:47:19,239] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.083 seconds
+[2021-05-01 08:47:49,632] {scheduler_job.py:182} INFO - Started process (PID=6815) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:47:49,634] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:47:49,635] {logging_mixin.py:104} INFO - [2021-05-01 08:47:49,635] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:47:49,659] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:47:49,681] {logging_mixin.py:104} INFO - [2021-05-01 08:47:49,681] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:47:49,708] {logging_mixin.py:104} INFO - [2021-05-01 08:47:49,708] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:47:49,726] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.099 seconds
+[2021-05-01 08:48:20,345] {scheduler_job.py:182} INFO - Started process (PID=6823) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:48:20,346] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:48:20,407] {logging_mixin.py:104} INFO - [2021-05-01 08:48:20,407] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:48:20,431] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:48:20,451] {logging_mixin.py:104} INFO - [2021-05-01 08:48:20,451] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:48:20,477] {logging_mixin.py:104} INFO - [2021-05-01 08:48:20,477] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:48:20,498] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.156 seconds
+[2021-05-01 08:48:51,017] {scheduler_job.py:182} INFO - Started process (PID=6830) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:48:51,020] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:48:51,021] {logging_mixin.py:104} INFO - [2021-05-01 08:48:51,021] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:48:51,030] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:48:51,039] {logging_mixin.py:104} INFO - [2021-05-01 08:48:51,039] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:48:51,051] {logging_mixin.py:104} INFO - [2021-05-01 08:48:51,051] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:48:51,063] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.048 seconds
+[2021-05-01 08:49:21,578] {scheduler_job.py:182} INFO - Started process (PID=6839) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:49:21,579] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:49:21,579] {logging_mixin.py:104} INFO - [2021-05-01 08:49:21,579] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:49:21,589] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:49:21,599] {logging_mixin.py:104} INFO - [2021-05-01 08:49:21,599] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:49:21,612] {logging_mixin.py:104} INFO - [2021-05-01 08:49:21,612] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:49:21,696] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.121 seconds
+[2021-05-01 08:49:52,245] {scheduler_job.py:182} INFO - Started process (PID=6848) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:49:52,246] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:49:52,247] {logging_mixin.py:104} INFO - [2021-05-01 08:49:52,247] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:49:52,258] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:49:52,273] {logging_mixin.py:104} INFO - [2021-05-01 08:49:52,273] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:49:52,300] {logging_mixin.py:104} INFO - [2021-05-01 08:49:52,300] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:49:52,317] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.075 seconds
+[2021-05-01 08:50:22,721] {scheduler_job.py:182} INFO - Started process (PID=6855) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:50:22,723] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:50:22,724] {logging_mixin.py:104} INFO - [2021-05-01 08:50:22,724] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:50:22,745] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:50:22,766] {logging_mixin.py:104} INFO - [2021-05-01 08:50:22,766] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:50:22,793] {logging_mixin.py:104} INFO - [2021-05-01 08:50:22,792] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:50:22,810] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.094 seconds
+[2021-05-01 08:50:53,269] {scheduler_job.py:182} INFO - Started process (PID=6887) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:50:53,271] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:50:53,272] {logging_mixin.py:104} INFO - [2021-05-01 08:50:53,271] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:50:53,292] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:50:53,312] {logging_mixin.py:104} INFO - [2021-05-01 08:50:53,312] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:50:53,339] {logging_mixin.py:104} INFO - [2021-05-01 08:50:53,339] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:50:53,426] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.163 seconds
+[2021-05-01 08:51:23,704] {scheduler_job.py:182} INFO - Started process (PID=6914) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:51:23,706] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:51:23,707] {logging_mixin.py:104} INFO - [2021-05-01 08:51:23,707] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:51:23,728] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:51:23,750] {logging_mixin.py:104} INFO - [2021-05-01 08:51:23,750] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:51:23,777] {logging_mixin.py:104} INFO - [2021-05-01 08:51:23,777] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:51:23,866] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.167 seconds
+[2021-05-01 08:51:54,015] {scheduler_job.py:182} INFO - Started process (PID=6921) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:51:54,016] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:51:54,017] {logging_mixin.py:104} INFO - [2021-05-01 08:51:54,016] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:51:54,026] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:51:54,035] {logging_mixin.py:104} INFO - [2021-05-01 08:51:54,035] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:51:54,047] {logging_mixin.py:104} INFO - [2021-05-01 08:51:54,047] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:51:54,062] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.049 seconds
+[2021-05-01 08:52:24,232] {scheduler_job.py:182} INFO - Started process (PID=6928) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:52:24,234] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:52:24,235] {logging_mixin.py:104} INFO - [2021-05-01 08:52:24,235] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:52:24,255] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:52:24,275] {logging_mixin.py:104} INFO - [2021-05-01 08:52:24,275] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:52:24,302] {logging_mixin.py:104} INFO - [2021-05-01 08:52:24,302] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:52:24,322] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.095 seconds
+[2021-05-01 08:52:54,542] {scheduler_job.py:182} INFO - Started process (PID=6940) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:52:54,542] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:52:54,543] {logging_mixin.py:104} INFO - [2021-05-01 08:52:54,543] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:52:54,553] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:52:54,563] {logging_mixin.py:104} INFO - [2021-05-01 08:52:54,563] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:52:54,575] {logging_mixin.py:104} INFO - [2021-05-01 08:52:54,575] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:52:54,591] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.053 seconds
+[2021-05-01 08:53:24,755] {scheduler_job.py:182} INFO - Started process (PID=6949) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:53:24,756] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:53:24,756] {logging_mixin.py:104} INFO - [2021-05-01 08:53:24,756] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:53:24,765] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:53:24,775] {logging_mixin.py:104} INFO - [2021-05-01 08:53:24,775] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:53:24,787] {logging_mixin.py:104} INFO - [2021-05-01 08:53:24,787] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:53:24,805] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.052 seconds
+[2021-05-01 08:53:54,971] {scheduler_job.py:182} INFO - Started process (PID=6959) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:53:54,973] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:53:54,974] {logging_mixin.py:104} INFO - [2021-05-01 08:53:54,974] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:53:54,993] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:53:55,014] {logging_mixin.py:104} INFO - [2021-05-01 08:53:55,013] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:53:55,040] {logging_mixin.py:104} INFO - [2021-05-01 08:53:55,040] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:53:55,127] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.161 seconds
+[2021-05-01 08:54:25,265] {scheduler_job.py:182} INFO - Started process (PID=6968) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:54:25,267] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:54:25,268] {logging_mixin.py:104} INFO - [2021-05-01 08:54:25,268] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:54:25,288] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:54:25,308] {logging_mixin.py:104} INFO - [2021-05-01 08:54:25,308] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:54:25,335] {logging_mixin.py:104} INFO - [2021-05-01 08:54:25,335] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:54:25,421] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.161 seconds
+[2021-05-01 08:54:55,497] {scheduler_job.py:182} INFO - Started process (PID=6976) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:54:55,498] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:54:55,499] {logging_mixin.py:104} INFO - [2021-05-01 08:54:55,499] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:54:55,508] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:54:55,518] {logging_mixin.py:104} INFO - [2021-05-01 08:54:55,518] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:54:55,530] {logging_mixin.py:104} INFO - [2021-05-01 08:54:55,530] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:54:55,614] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.120 seconds
+[2021-05-01 08:55:25,778] {scheduler_job.py:182} INFO - Started process (PID=6987) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:55:25,779] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:55:25,780] {logging_mixin.py:104} INFO - [2021-05-01 08:55:25,780] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:55:25,801] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:55:25,823] {logging_mixin.py:104} INFO - [2021-05-01 08:55:25,823] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:55:25,853] {logging_mixin.py:104} INFO - [2021-05-01 08:55:25,853] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:55:25,875] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.103 seconds
+[2021-05-01 08:55:56,087] {scheduler_job.py:182} INFO - Started process (PID=6996) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:55:56,088] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:55:56,088] {logging_mixin.py:104} INFO - [2021-05-01 08:55:56,088] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:55:56,098] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:55:56,108] {logging_mixin.py:104} INFO - [2021-05-01 08:55:56,108] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:55:56,120] {logging_mixin.py:104} INFO - [2021-05-01 08:55:56,120] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:55:56,134] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.050 seconds
+[2021-05-01 08:56:26,281] {scheduler_job.py:182} INFO - Started process (PID=7008) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:56:26,283] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:56:26,284] {logging_mixin.py:104} INFO - [2021-05-01 08:56:26,284] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:56:26,305] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:56:26,324] {logging_mixin.py:104} INFO - [2021-05-01 08:56:26,324] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:56:26,351] {logging_mixin.py:104} INFO - [2021-05-01 08:56:26,351] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:56:26,371] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.096 seconds
+[2021-05-01 08:56:56,577] {scheduler_job.py:182} INFO - Started process (PID=7015) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:56:56,578] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:56:56,579] {logging_mixin.py:104} INFO - [2021-05-01 08:56:56,579] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:56:56,600] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:56:56,622] {logging_mixin.py:104} INFO - [2021-05-01 08:56:56,622] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:56:56,649] {logging_mixin.py:104} INFO - [2021-05-01 08:56:56,649] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:56:56,669] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.098 seconds
+[2021-05-01 08:57:26,883] {scheduler_job.py:182} INFO - Started process (PID=7023) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:57:26,884] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:57:26,885] {logging_mixin.py:104} INFO - [2021-05-01 08:57:26,885] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:57:26,894] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:57:26,904] {logging_mixin.py:104} INFO - [2021-05-01 08:57:26,904] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:57:26,916] {logging_mixin.py:104} INFO - [2021-05-01 08:57:26,916] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:57:26,929] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.048 seconds
+[2021-05-01 08:57:57,096] {scheduler_job.py:182} INFO - Started process (PID=7036) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:57:57,097] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:57:57,098] {logging_mixin.py:104} INFO - [2021-05-01 08:57:57,098] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:57:57,108] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:57:57,118] {logging_mixin.py:104} INFO - [2021-05-01 08:57:57,118] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:57:57,130] {logging_mixin.py:104} INFO - [2021-05-01 08:57:57,130] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:57:57,211] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.117 seconds
+[2021-05-01 08:58:27,414] {scheduler_job.py:182} INFO - Started process (PID=7045) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:58:27,416] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:58:27,417] {logging_mixin.py:104} INFO - [2021-05-01 08:58:27,417] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:58:27,438] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:58:27,458] {logging_mixin.py:104} INFO - [2021-05-01 08:58:27,457] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:58:27,484] {logging_mixin.py:104} INFO - [2021-05-01 08:58:27,484] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:58:27,571] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.161 seconds
+[2021-05-01 08:58:57,725] {scheduler_job.py:182} INFO - Started process (PID=7052) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:58:57,726] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:58:57,727] {logging_mixin.py:104} INFO - [2021-05-01 08:58:57,727] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:58:57,736] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:58:57,746] {logging_mixin.py:104} INFO - [2021-05-01 08:58:57,746] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:58:57,759] {logging_mixin.py:104} INFO - [2021-05-01 08:58:57,759] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:58:57,843] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.120 seconds
+[2021-05-01 08:59:28,056] {scheduler_job.py:182} INFO - Started process (PID=7127) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:59:28,058] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 08:59:28,059] {logging_mixin.py:104} INFO - [2021-05-01 08:59:28,059] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:59:28,079] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 08:59:28,092] {logging_mixin.py:104} INFO - [2021-05-01 08:59:28,092] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 08:59:28,106] {logging_mixin.py:104} INFO - [2021-05-01 08:59:28,106] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 08:59:28,112] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.066 seconds
+[2021-05-01 13:21:34,842] {scheduler_job.py:182} INFO - Started process (PID=8013) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:21:34,844] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:21:34,844] {logging_mixin.py:104} INFO - [2021-05-01 13:21:34,844] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:21:34,851] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:21:34,858] {logging_mixin.py:104} INFO - [2021-05-01 13:21:34,858] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:21:34,869] {logging_mixin.py:104} INFO - [2021-05-01 13:21:34,868] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:21:34,875] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.035 seconds
+[2021-05-01 13:22:05,361] {scheduler_job.py:182} INFO - Started process (PID=8070) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:22:05,363] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:22:05,365] {logging_mixin.py:104} INFO - [2021-05-01 13:22:05,364] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:22:05,379] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:22:05,392] {logging_mixin.py:104} INFO - [2021-05-01 13:22:05,392] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:22:05,407] {logging_mixin.py:104} INFO - [2021-05-01 13:22:05,407] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:22:05,492] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.138 seconds
+[2021-05-01 13:22:35,979] {scheduler_job.py:182} INFO - Started process (PID=8113) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:22:35,980] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:22:35,980] {logging_mixin.py:104} INFO - [2021-05-01 13:22:35,980] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:22:35,988] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:22:35,998] {logging_mixin.py:104} INFO - [2021-05-01 13:22:35,998] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:22:36,011] {logging_mixin.py:104} INFO - [2021-05-01 13:22:36,011] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:22:36,094] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.117 seconds
+[2021-05-01 13:23:06,924] {scheduler_job.py:182} INFO - Started process (PID=8118) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:23:06,924] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:23:06,925] {logging_mixin.py:104} INFO - [2021-05-01 13:23:06,925] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:23:06,931] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:23:06,939] {logging_mixin.py:104} INFO - [2021-05-01 13:23:06,939] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:23:06,948] {logging_mixin.py:104} INFO - [2021-05-01 13:23:06,948] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:23:06,964] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.042 seconds
+[2021-05-01 13:23:37,128] {scheduler_job.py:182} INFO - Started process (PID=8209) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:23:37,129] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:23:37,129] {logging_mixin.py:104} INFO - [2021-05-01 13:23:37,129] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:23:37,156] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:23:37,176] {logging_mixin.py:104} INFO - [2021-05-01 13:23:37,176] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:23:37,191] {logging_mixin.py:104} INFO - [2021-05-01 13:23:37,191] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:23:37,202] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.076 seconds
+[2021-05-01 13:24:08,047] {scheduler_job.py:182} INFO - Started process (PID=8217) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:24:08,048] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:24:08,048] {logging_mixin.py:104} INFO - [2021-05-01 13:24:08,048] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:24:08,055] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:24:08,063] {logging_mixin.py:104} INFO - [2021-05-01 13:24:08,063] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:24:08,072] {logging_mixin.py:104} INFO - [2021-05-01 13:24:08,072] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:24:08,156] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.111 seconds
+[2021-05-01 13:24:38,292] {scheduler_job.py:182} INFO - Started process (PID=8227) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:24:38,293] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:24:38,293] {logging_mixin.py:104} INFO - [2021-05-01 13:24:38,293] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:24:38,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:24:38,309] {logging_mixin.py:104} INFO - [2021-05-01 13:24:38,309] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:24:38,319] {logging_mixin.py:104} INFO - [2021-05-01 13:24:38,319] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:24:38,336] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.046 seconds
+[2021-05-01 13:25:09,433] {scheduler_job.py:182} INFO - Started process (PID=8480) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:25:09,435] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:25:09,436] {logging_mixin.py:104} INFO - [2021-05-01 13:25:09,436] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:25:09,451] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:25:09,461] {logging_mixin.py:104} INFO - [2021-05-01 13:25:09,461] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:25:09,472] {logging_mixin.py:104} INFO - [2021-05-01 13:25:09,472] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:25:09,558] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.130 seconds
+[2021-05-01 13:25:40,003] {scheduler_job.py:182} INFO - Started process (PID=8513) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:25:40,004] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:25:40,004] {logging_mixin.py:104} INFO - [2021-05-01 13:25:40,004] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:25:40,013] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:25:40,022] {logging_mixin.py:104} INFO - [2021-05-01 13:25:40,022] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:25:40,035] {logging_mixin.py:104} INFO - [2021-05-01 13:25:40,034] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:25:40,115] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.115 seconds
+[2021-05-01 13:26:10,761] {scheduler_job.py:182} INFO - Started process (PID=8550) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:26:10,763] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:26:10,764] {logging_mixin.py:104} INFO - [2021-05-01 13:26:10,764] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:26:10,773] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:26:10,784] {logging_mixin.py:104} INFO - [2021-05-01 13:26:10,784] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:26:10,797] {logging_mixin.py:104} INFO - [2021-05-01 13:26:10,797] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:26:10,817] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.059 seconds
+[2021-05-01 13:26:41,429] {scheduler_job.py:182} INFO - Started process (PID=8565) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:26:41,429] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:26:41,430] {logging_mixin.py:104} INFO - [2021-05-01 13:26:41,430] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:26:41,437] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:26:41,446] {logging_mixin.py:104} INFO - [2021-05-01 13:26:41,446] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:26:41,459] {logging_mixin.py:104} INFO - [2021-05-01 13:26:41,459] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:26:41,540] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:27:12,229] {scheduler_job.py:182} INFO - Started process (PID=8827) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:27:12,231] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:27:12,232] {logging_mixin.py:104} INFO - [2021-05-01 13:27:12,232] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:27:12,245] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:27:12,254] {logging_mixin.py:104} INFO - [2021-05-01 13:27:12,254] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:27:12,265] {logging_mixin.py:104} INFO - [2021-05-01 13:27:12,265] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:27:12,275] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.051 seconds
+[2021-05-01 13:27:42,969] {scheduler_job.py:182} INFO - Started process (PID=8856) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:27:42,971] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:27:42,972] {logging_mixin.py:104} INFO - [2021-05-01 13:27:42,972] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:27:42,991] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:27:43,002] {logging_mixin.py:104} INFO - [2021-05-01 13:27:43,002] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:27:43,015] {logging_mixin.py:104} INFO - [2021-05-01 13:27:43,015] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:27:43,069] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.105 seconds
+[2021-05-01 13:28:13,749] {scheduler_job.py:182} INFO - Started process (PID=8931) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:28:13,750] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:28:13,751] {logging_mixin.py:104} INFO - [2021-05-01 13:28:13,751] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:28:13,760] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:28:13,769] {logging_mixin.py:104} INFO - [2021-05-01 13:28:13,769] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:28:13,782] {logging_mixin.py:104} INFO - [2021-05-01 13:28:13,782] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:28:13,798] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.051 seconds
+[2021-05-01 13:28:44,426] {scheduler_job.py:182} INFO - Started process (PID=9168) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:28:44,427] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:28:44,427] {logging_mixin.py:104} INFO - [2021-05-01 13:28:44,427] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:28:44,434] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:28:44,441] {logging_mixin.py:104} INFO - [2021-05-01 13:28:44,441] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:28:44,452] {logging_mixin.py:104} INFO - [2021-05-01 13:28:44,452] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:28:44,460] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.035 seconds
+[2021-05-01 13:29:15,055] {scheduler_job.py:182} INFO - Started process (PID=9308) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:29:15,056] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:29:15,056] {logging_mixin.py:104} INFO - [2021-05-01 13:29:15,056] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:29:15,063] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:29:15,071] {logging_mixin.py:104} INFO - [2021-05-01 13:29:15,071] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:29:15,082] {logging_mixin.py:104} INFO - [2021-05-01 13:29:15,082] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:29:15,165] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:29:45,789] {scheduler_job.py:182} INFO - Started process (PID=9336) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:29:45,790] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:29:45,790] {logging_mixin.py:104} INFO - [2021-05-01 13:29:45,790] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:29:45,798] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:29:45,808] {logging_mixin.py:104} INFO - [2021-05-01 13:29:45,808] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:29:45,818] {logging_mixin.py:104} INFO - [2021-05-01 13:29:45,818] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:29:45,898] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.111 seconds
+[2021-05-01 13:30:16,669] {scheduler_job.py:182} INFO - Started process (PID=9362) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:30:16,670] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:30:16,671] {logging_mixin.py:104} INFO - [2021-05-01 13:30:16,671] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:30:16,688] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:30:16,701] {logging_mixin.py:104} INFO - [2021-05-01 13:30:16,701] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:30:16,712] {logging_mixin.py:104} INFO - [2021-05-01 13:30:16,711] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:30:16,796] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.132 seconds
+[2021-05-01 13:30:47,551] {scheduler_job.py:182} INFO - Started process (PID=9619) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:30:47,553] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:30:47,554] {logging_mixin.py:104} INFO - [2021-05-01 13:30:47,554] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:30:47,564] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:30:47,573] {logging_mixin.py:104} INFO - [2021-05-01 13:30:47,573] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:30:47,584] {logging_mixin.py:104} INFO - [2021-05-01 13:30:47,584] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:30:47,599] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.052 seconds
+[2021-05-01 13:31:18,239] {scheduler_job.py:182} INFO - Started process (PID=9893) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:31:18,240] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:31:18,241] {logging_mixin.py:104} INFO - [2021-05-01 13:31:18,240] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:31:18,248] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:31:18,257] {logging_mixin.py:104} INFO - [2021-05-01 13:31:18,257] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:31:18,267] {logging_mixin.py:104} INFO - [2021-05-01 13:31:18,267] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:31:18,351] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.114 seconds
+[2021-05-01 13:31:49,113] {scheduler_job.py:182} INFO - Started process (PID=9910) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:31:49,113] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:31:49,114] {logging_mixin.py:104} INFO - [2021-05-01 13:31:49,114] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:31:49,122] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:31:49,130] {logging_mixin.py:104} INFO - [2021-05-01 13:31:49,129] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:31:49,140] {logging_mixin.py:104} INFO - [2021-05-01 13:31:49,140] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:31:49,156] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.045 seconds
+[2021-05-01 13:32:19,909] {scheduler_job.py:182} INFO - Started process (PID=9918) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:32:19,910] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:32:19,911] {logging_mixin.py:104} INFO - [2021-05-01 13:32:19,911] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:32:19,922] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:32:19,930] {logging_mixin.py:104} INFO - [2021-05-01 13:32:19,930] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:32:19,941] {logging_mixin.py:104} INFO - [2021-05-01 13:32:19,941] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:32:20,025] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.120 seconds
+[2021-05-01 13:32:50,746] {scheduler_job.py:182} INFO - Started process (PID=10013) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:32:50,750] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:32:50,751] {logging_mixin.py:104} INFO - [2021-05-01 13:32:50,751] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:32:50,767] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:32:50,777] {logging_mixin.py:104} INFO - [2021-05-01 13:32:50,776] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:32:50,791] {logging_mixin.py:104} INFO - [2021-05-01 13:32:50,791] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:32:50,800] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.060 seconds
+[2021-05-01 13:33:21,391] {scheduler_job.py:182} INFO - Started process (PID=10046) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:33:21,392] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:33:21,392] {logging_mixin.py:104} INFO - [2021-05-01 13:33:21,392] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:33:21,401] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:33:21,409] {logging_mixin.py:104} INFO - [2021-05-01 13:33:21,408] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:33:21,419] {logging_mixin.py:104} INFO - [2021-05-01 13:33:21,419] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:33:21,430] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.041 seconds
+[2021-05-01 13:33:51,982] {scheduler_job.py:182} INFO - Started process (PID=10123) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:33:51,984] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:33:51,986] {logging_mixin.py:104} INFO - [2021-05-01 13:33:51,985] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:33:52,019] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:33:52,038] {logging_mixin.py:104} INFO - [2021-05-01 13:33:52,038] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:33:52,055] {logging_mixin.py:104} INFO - [2021-05-01 13:33:52,054] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:33:52,067] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.094 seconds
+[2021-05-01 13:34:22,353] {scheduler_job.py:182} INFO - Started process (PID=10140) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:34:22,356] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:34:22,356] {logging_mixin.py:104} INFO - [2021-05-01 13:34:22,356] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:34:22,363] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:34:22,371] {logging_mixin.py:104} INFO - [2021-05-01 13:34:22,371] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:34:22,381] {logging_mixin.py:104} INFO - [2021-05-01 13:34:22,381] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:34:22,393] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.042 seconds
+[2021-05-01 13:34:52,555] {scheduler_job.py:182} INFO - Started process (PID=10393) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:34:52,556] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:34:52,557] {logging_mixin.py:104} INFO - [2021-05-01 13:34:52,557] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:34:52,571] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:34:52,584] {logging_mixin.py:104} INFO - [2021-05-01 13:34:52,584] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:34:52,596] {logging_mixin.py:104} INFO - [2021-05-01 13:34:52,596] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:34:52,681] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.130 seconds
+[2021-05-01 13:35:22,848] {scheduler_job.py:182} INFO - Started process (PID=10689) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:35:22,850] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:35:22,851] {logging_mixin.py:104} INFO - [2021-05-01 13:35:22,851] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:35:22,871] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:35:22,883] {logging_mixin.py:104} INFO - [2021-05-01 13:35:22,883] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:35:22,895] {logging_mixin.py:104} INFO - [2021-05-01 13:35:22,894] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:35:22,978] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.135 seconds
+[2021-05-01 13:35:53,126] {scheduler_job.py:182} INFO - Started process (PID=10700) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:35:53,127] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:35:53,128] {logging_mixin.py:104} INFO - [2021-05-01 13:35:53,128] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:35:53,135] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:35:53,143] {logging_mixin.py:104} INFO - [2021-05-01 13:35:53,143] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:35:53,154] {logging_mixin.py:104} INFO - [2021-05-01 13:35:53,153] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:35:53,237] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:36:23,426] {scheduler_job.py:182} INFO - Started process (PID=10706) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:36:23,427] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:36:23,427] {logging_mixin.py:104} INFO - [2021-05-01 13:36:23,427] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:36:23,435] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:36:23,443] {logging_mixin.py:104} INFO - [2021-05-01 13:36:23,443] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:36:23,453] {logging_mixin.py:104} INFO - [2021-05-01 13:36:23,453] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:36:23,536] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:36:53,735] {scheduler_job.py:182} INFO - Started process (PID=10714) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:36:53,736] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:36:53,736] {logging_mixin.py:104} INFO - [2021-05-01 13:36:53,736] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:36:53,745] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:36:53,756] {logging_mixin.py:104} INFO - [2021-05-01 13:36:53,756] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:36:53,769] {logging_mixin.py:104} INFO - [2021-05-01 13:36:53,769] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:36:53,849] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.117 seconds
+[2021-05-01 13:37:24,017] {scheduler_job.py:182} INFO - Started process (PID=10721) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:37:24,018] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:37:24,019] {logging_mixin.py:104} INFO - [2021-05-01 13:37:24,018] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:37:24,026] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:37:24,034] {logging_mixin.py:104} INFO - [2021-05-01 13:37:24,034] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:37:24,044] {logging_mixin.py:104} INFO - [2021-05-01 13:37:24,044] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:37:24,127] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:37:54,299] {scheduler_job.py:182} INFO - Started process (PID=10730) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:37:54,301] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:37:54,302] {logging_mixin.py:104} INFO - [2021-05-01 13:37:54,302] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:37:54,321] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:37:54,334] {logging_mixin.py:104} INFO - [2021-05-01 13:37:54,334] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:37:54,345] {logging_mixin.py:104} INFO - [2021-05-01 13:37:54,345] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:37:54,429] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.135 seconds
+[2021-05-01 13:38:24,583] {scheduler_job.py:182} INFO - Started process (PID=10736) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:38:24,584] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:38:24,584] {logging_mixin.py:104} INFO - [2021-05-01 13:38:24,584] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:38:24,592] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:38:24,601] {logging_mixin.py:104} INFO - [2021-05-01 13:38:24,601] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:38:24,611] {logging_mixin.py:104} INFO - [2021-05-01 13:38:24,611] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:38:24,631] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.050 seconds
+[2021-05-01 13:38:54,740] {scheduler_job.py:182} INFO - Started process (PID=10743) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:38:54,741] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:38:54,742] {logging_mixin.py:104} INFO - [2021-05-01 13:38:54,742] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:38:54,749] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:38:54,756] {logging_mixin.py:104} INFO - [2021-05-01 13:38:54,756] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:38:54,765] {logging_mixin.py:104} INFO - [2021-05-01 13:38:54,765] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:38:54,845] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.106 seconds
+[2021-05-01 13:39:25,025] {scheduler_job.py:182} INFO - Started process (PID=10749) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:39:25,026] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:39:25,026] {logging_mixin.py:104} INFO - [2021-05-01 13:39:25,026] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:39:25,032] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:39:25,040] {logging_mixin.py:104} INFO - [2021-05-01 13:39:25,040] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:39:25,050] {logging_mixin.py:104} INFO - [2021-05-01 13:39:25,050] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:39:25,123] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.100 seconds
+[2021-05-01 13:39:55,289] {scheduler_job.py:182} INFO - Started process (PID=10776) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:39:55,291] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:39:55,291] {logging_mixin.py:104} INFO - [2021-05-01 13:39:55,291] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:39:55,299] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:39:55,309] {logging_mixin.py:104} INFO - [2021-05-01 13:39:55,309] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:39:55,324] {logging_mixin.py:104} INFO - [2021-05-01 13:39:55,324] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:39:55,339] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.052 seconds
+[2021-05-01 13:40:25,479] {scheduler_job.py:182} INFO - Started process (PID=10821) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:40:25,480] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:40:25,480] {logging_mixin.py:104} INFO - [2021-05-01 13:40:25,480] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:40:25,488] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:40:25,497] {logging_mixin.py:104} INFO - [2021-05-01 13:40:25,497] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:40:25,508] {logging_mixin.py:104} INFO - [2021-05-01 13:40:25,507] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:40:25,516] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.040 seconds
+[2021-05-01 13:40:55,670] {scheduler_job.py:182} INFO - Started process (PID=11228) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:40:55,670] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:40:55,671] {logging_mixin.py:104} INFO - [2021-05-01 13:40:55,671] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:40:55,683] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:40:55,694] {logging_mixin.py:104} INFO - [2021-05-01 13:40:55,694] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:40:55,712] {logging_mixin.py:104} INFO - [2021-05-01 13:40:55,712] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:40:55,795] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.129 seconds
+[2021-05-01 13:41:25,962] {scheduler_job.py:182} INFO - Started process (PID=11578) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:41:25,963] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:41:25,963] {logging_mixin.py:104} INFO - [2021-05-01 13:41:25,963] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:41:25,971] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:41:25,979] {logging_mixin.py:104} INFO - [2021-05-01 13:41:25,979] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:41:25,990] {logging_mixin.py:104} INFO - [2021-05-01 13:41:25,989] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:41:26,001] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.041 seconds
+[2021-05-01 13:41:56,182] {scheduler_job.py:182} INFO - Started process (PID=11607) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:41:56,184] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:41:56,186] {logging_mixin.py:104} INFO - [2021-05-01 13:41:56,185] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:41:56,206] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:41:56,228] {logging_mixin.py:104} INFO - [2021-05-01 13:41:56,228] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:41:56,259] {logging_mixin.py:104} INFO - [2021-05-01 13:41:56,258] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:41:56,280] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.103 seconds
+[2021-05-01 13:42:26,455] {scheduler_job.py:182} INFO - Started process (PID=11771) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:42:26,456] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:42:26,456] {logging_mixin.py:104} INFO - [2021-05-01 13:42:26,456] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:42:26,463] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:42:26,471] {logging_mixin.py:104} INFO - [2021-05-01 13:42:26,471] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:42:26,482] {logging_mixin.py:104} INFO - [2021-05-01 13:42:26,482] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:42:26,567] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.114 seconds
+[2021-05-01 13:42:56,726] {scheduler_job.py:182} INFO - Started process (PID=11796) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:42:56,726] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:42:56,727] {logging_mixin.py:104} INFO - [2021-05-01 13:42:56,727] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:42:56,734] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:42:56,742] {logging_mixin.py:104} INFO - [2021-05-01 13:42:56,742] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:42:56,753] {logging_mixin.py:104} INFO - [2021-05-01 13:42:56,752] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:42:56,833] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.109 seconds
+[2021-05-01 13:43:27,016] {scheduler_job.py:182} INFO - Started process (PID=11802) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:43:27,016] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:43:27,017] {logging_mixin.py:104} INFO - [2021-05-01 13:43:27,017] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:43:27,024] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:43:27,032] {logging_mixin.py:104} INFO - [2021-05-01 13:43:27,032] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:43:27,043] {logging_mixin.py:104} INFO - [2021-05-01 13:43:27,043] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:43:27,126] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:43:57,323] {scheduler_job.py:182} INFO - Started process (PID=11809) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:43:57,324] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:43:57,325] {logging_mixin.py:104} INFO - [2021-05-01 13:43:57,324] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:43:57,332] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:43:57,340] {logging_mixin.py:104} INFO - [2021-05-01 13:43:57,340] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:43:57,351] {logging_mixin.py:104} INFO - [2021-05-01 13:43:57,351] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:43:57,434] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:44:27,593] {scheduler_job.py:182} INFO - Started process (PID=11815) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:44:27,594] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:44:27,594] {logging_mixin.py:104} INFO - [2021-05-01 13:44:27,594] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:44:27,601] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:44:27,610] {logging_mixin.py:104} INFO - [2021-05-01 13:44:27,610] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:44:27,620] {logging_mixin.py:104} INFO - [2021-05-01 13:44:27,620] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:44:27,704] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:44:57,881] {scheduler_job.py:182} INFO - Started process (PID=11822) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:44:57,881] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:44:57,882] {logging_mixin.py:104} INFO - [2021-05-01 13:44:57,882] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:44:57,890] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:44:57,899] {logging_mixin.py:104} INFO - [2021-05-01 13:44:57,899] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:44:57,909] {logging_mixin.py:104} INFO - [2021-05-01 13:44:57,909] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:44:57,994] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.115 seconds
+[2021-05-01 13:45:28,173] {scheduler_job.py:182} INFO - Started process (PID=11831) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:45:28,174] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:45:28,175] {logging_mixin.py:104} INFO - [2021-05-01 13:45:28,174] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:45:28,182] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:45:28,190] {logging_mixin.py:104} INFO - [2021-05-01 13:45:28,190] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:45:28,200] {logging_mixin.py:104} INFO - [2021-05-01 13:45:28,200] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:45:28,281] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.110 seconds
+[2021-05-01 13:45:58,444] {scheduler_job.py:182} INFO - Started process (PID=11842) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:45:58,445] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:45:58,445] {logging_mixin.py:104} INFO - [2021-05-01 13:45:58,445] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:45:58,452] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:45:58,460] {logging_mixin.py:104} INFO - [2021-05-01 13:45:58,460] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:45:58,471] {logging_mixin.py:104} INFO - [2021-05-01 13:45:58,471] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:45:58,554] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:46:28,707] {scheduler_job.py:182} INFO - Started process (PID=11853) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:46:28,708] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:46:28,708] {logging_mixin.py:104} INFO - [2021-05-01 13:46:28,708] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:46:28,715] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:46:28,724] {logging_mixin.py:104} INFO - [2021-05-01 13:46:28,724] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:46:28,734] {logging_mixin.py:104} INFO - [2021-05-01 13:46:28,734] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:46:28,741] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.036 seconds
+[2021-05-01 13:46:58,877] {scheduler_job.py:182} INFO - Started process (PID=11874) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:46:58,877] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:46:58,878] {logging_mixin.py:104} INFO - [2021-05-01 13:46:58,878] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:46:58,885] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:46:58,893] {logging_mixin.py:104} INFO - [2021-05-01 13:46:58,893] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:46:58,904] {logging_mixin.py:104} INFO - [2021-05-01 13:46:58,904] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:46:58,913] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.038 seconds
+[2021-05-01 13:47:28,998] {scheduler_job.py:182} INFO - Started process (PID=11879) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:47:28,999] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:47:28,999] {logging_mixin.py:104} INFO - [2021-05-01 13:47:28,999] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:47:29,007] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:47:29,014] {logging_mixin.py:104} INFO - [2021-05-01 13:47:29,014] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:47:29,025] {logging_mixin.py:104} INFO - [2021-05-01 13:47:29,025] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:47:29,040] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.044 seconds
+[2021-05-01 13:47:59,177] {scheduler_job.py:182} INFO - Started process (PID=11889) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:47:59,177] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:47:59,178] {logging_mixin.py:104} INFO - [2021-05-01 13:47:59,178] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:47:59,185] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:47:59,193] {logging_mixin.py:104} INFO - [2021-05-01 13:47:59,193] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:47:59,204] {logging_mixin.py:104} INFO - [2021-05-01 13:47:59,203] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:47:59,288] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:48:29,469] {scheduler_job.py:182} INFO - Started process (PID=11897) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:48:29,470] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:48:29,470] {logging_mixin.py:104} INFO - [2021-05-01 13:48:29,470] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:48:29,477] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:48:29,485] {logging_mixin.py:104} INFO - [2021-05-01 13:48:29,485] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:48:29,496] {logging_mixin.py:104} INFO - [2021-05-01 13:48:29,496] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:48:29,577] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.110 seconds
+[2021-05-01 13:48:59,740] {scheduler_job.py:182} INFO - Started process (PID=11904) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:48:59,741] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:48:59,741] {logging_mixin.py:104} INFO - [2021-05-01 13:48:59,741] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:48:59,748] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:48:59,756] {logging_mixin.py:104} INFO - [2021-05-01 13:48:59,756] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:48:59,767] {logging_mixin.py:104} INFO - [2021-05-01 13:48:59,767] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:48:59,847] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.109 seconds
+[2021-05-01 13:49:30,009] {scheduler_job.py:182} INFO - Started process (PID=11909) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:49:30,010] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:49:30,010] {logging_mixin.py:104} INFO - [2021-05-01 13:49:30,010] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:49:30,017] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:49:30,026] {logging_mixin.py:104} INFO - [2021-05-01 13:49:30,025] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:49:30,036] {logging_mixin.py:104} INFO - [2021-05-01 13:49:30,036] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:49:30,119] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:50:00,320] {scheduler_job.py:182} INFO - Started process (PID=11931) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:50:00,321] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:50:00,321] {logging_mixin.py:104} INFO - [2021-05-01 13:50:00,321] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:50:00,328] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:50:00,336] {logging_mixin.py:104} INFO - [2021-05-01 13:50:00,336] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:50:00,347] {logging_mixin.py:104} INFO - [2021-05-01 13:50:00,347] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:50:00,431] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:50:30,590] {scheduler_job.py:182} INFO - Started process (PID=11938) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:50:30,591] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:50:30,591] {logging_mixin.py:104} INFO - [2021-05-01 13:50:30,591] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:50:30,599] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:50:30,607] {logging_mixin.py:104} INFO - [2021-05-01 13:50:30,607] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:50:30,617] {logging_mixin.py:104} INFO - [2021-05-01 13:50:30,617] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:50:30,701] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:51:00,805] {scheduler_job.py:182} INFO - Started process (PID=11946) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:51:00,805] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:51:00,806] {logging_mixin.py:104} INFO - [2021-05-01 13:51:00,806] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:51:00,813] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:51:00,821] {logging_mixin.py:104} INFO - [2021-05-01 13:51:00,821] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:51:00,831] {logging_mixin.py:104} INFO - [2021-05-01 13:51:00,831] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:51:00,916] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:51:31,073] {scheduler_job.py:182} INFO - Started process (PID=11957) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:51:31,074] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:51:31,074] {logging_mixin.py:104} INFO - [2021-05-01 13:51:31,074] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:51:31,081] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:51:31,090] {logging_mixin.py:104} INFO - [2021-05-01 13:51:31,090] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:51:31,100] {logging_mixin.py:104} INFO - [2021-05-01 13:51:31,100] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:51:31,183] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:52:01,365] {scheduler_job.py:182} INFO - Started process (PID=11965) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:52:01,365] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:52:01,366] {logging_mixin.py:104} INFO - [2021-05-01 13:52:01,366] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:52:01,373] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:52:01,381] {logging_mixin.py:104} INFO - [2021-05-01 13:52:01,381] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:52:01,392] {logging_mixin.py:104} INFO - [2021-05-01 13:52:01,392] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:52:01,476] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.114 seconds
+[2021-05-01 13:52:31,628] {scheduler_job.py:182} INFO - Started process (PID=11971) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:52:31,629] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:52:31,629] {logging_mixin.py:104} INFO - [2021-05-01 13:52:31,629] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:52:31,637] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:52:31,645] {logging_mixin.py:104} INFO - [2021-05-01 13:52:31,644] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:52:31,655] {logging_mixin.py:104} INFO - [2021-05-01 13:52:31,655] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:52:31,739] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:53:01,892] {scheduler_job.py:182} INFO - Started process (PID=11979) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:53:01,893] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:53:01,893] {logging_mixin.py:104} INFO - [2021-05-01 13:53:01,893] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:53:01,900] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:53:01,909] {logging_mixin.py:104} INFO - [2021-05-01 13:53:01,908] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:53:01,919] {logging_mixin.py:104} INFO - [2021-05-01 13:53:01,919] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:53:01,928] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.038 seconds
+[2021-05-01 13:53:32,054] {scheduler_job.py:182} INFO - Started process (PID=11988) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:53:32,055] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:53:32,055] {logging_mixin.py:104} INFO - [2021-05-01 13:53:32,055] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:53:32,063] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:53:32,071] {logging_mixin.py:104} INFO - [2021-05-01 13:53:32,070] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:53:32,081] {logging_mixin.py:104} INFO - [2021-05-01 13:53:32,081] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:53:32,090] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.038 seconds
+[2021-05-01 13:54:02,285] {scheduler_job.py:182} INFO - Started process (PID=11995) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:54:02,286] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:54:02,286] {logging_mixin.py:104} INFO - [2021-05-01 13:54:02,286] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:54:02,294] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:54:02,302] {logging_mixin.py:104} INFO - [2021-05-01 13:54:02,302] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:54:02,312] {logging_mixin.py:104} INFO - [2021-05-01 13:54:02,312] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:54:02,395] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:54:32,588] {scheduler_job.py:182} INFO - Started process (PID=12003) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:54:32,589] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:54:32,589] {logging_mixin.py:104} INFO - [2021-05-01 13:54:32,589] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:54:32,596] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:54:32,604] {logging_mixin.py:104} INFO - [2021-05-01 13:54:32,604] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:54:32,614] {logging_mixin.py:104} INFO - [2021-05-01 13:54:32,614] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:54:32,698] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:55:02,880] {scheduler_job.py:182} INFO - Started process (PID=12014) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:55:02,882] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:55:02,883] {logging_mixin.py:104} INFO - [2021-05-01 13:55:02,883] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:55:02,902] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:55:02,914] {logging_mixin.py:104} INFO - [2021-05-01 13:55:02,914] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:55:02,925] {logging_mixin.py:104} INFO - [2021-05-01 13:55:02,925] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:55:03,008] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.133 seconds
+[2021-05-01 13:55:33,087] {scheduler_job.py:182} INFO - Started process (PID=12021) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:55:33,088] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:55:33,088] {logging_mixin.py:104} INFO - [2021-05-01 13:55:33,088] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:55:33,095] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:55:33,104] {logging_mixin.py:104} INFO - [2021-05-01 13:55:33,103] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:55:33,114] {logging_mixin.py:104} INFO - [2021-05-01 13:55:33,114] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:55:33,197] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:56:03,378] {scheduler_job.py:182} INFO - Started process (PID=12028) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:56:03,379] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:56:03,379] {logging_mixin.py:104} INFO - [2021-05-01 13:56:03,379] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:56:03,387] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:56:03,395] {logging_mixin.py:104} INFO - [2021-05-01 13:56:03,395] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:56:03,405] {logging_mixin.py:104} INFO - [2021-05-01 13:56:03,405] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:56:03,488] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:56:33,647] {scheduler_job.py:182} INFO - Started process (PID=12038) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:56:33,648] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:56:33,648] {logging_mixin.py:104} INFO - [2021-05-01 13:56:33,648] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:56:33,656] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:56:33,664] {logging_mixin.py:104} INFO - [2021-05-01 13:56:33,664] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:56:33,674] {logging_mixin.py:104} INFO - [2021-05-01 13:56:33,674] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:56:33,759] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:57:03,954] {scheduler_job.py:182} INFO - Started process (PID=12045) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:57:03,955] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:57:03,955] {logging_mixin.py:104} INFO - [2021-05-01 13:57:03,955] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:57:03,963] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:57:03,971] {logging_mixin.py:104} INFO - [2021-05-01 13:57:03,971] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:57:03,982] {logging_mixin.py:104} INFO - [2021-05-01 13:57:03,981] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:57:04,064] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:57:34,224] {scheduler_job.py:182} INFO - Started process (PID=12051) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:57:34,225] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:57:34,225] {logging_mixin.py:104} INFO - [2021-05-01 13:57:34,225] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:57:34,233] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:57:34,241] {logging_mixin.py:104} INFO - [2021-05-01 13:57:34,241] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:57:34,251] {logging_mixin.py:104} INFO - [2021-05-01 13:57:34,251] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:57:34,335] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 13:58:04,530] {scheduler_job.py:182} INFO - Started process (PID=12059) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:58:04,531] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:58:04,531] {logging_mixin.py:104} INFO - [2021-05-01 13:58:04,531] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:58:04,538] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:58:04,546] {logging_mixin.py:104} INFO - [2021-05-01 13:58:04,546] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:58:04,557] {logging_mixin.py:104} INFO - [2021-05-01 13:58:04,557] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:58:04,641] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:58:34,827] {scheduler_job.py:182} INFO - Started process (PID=12068) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:58:34,828] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:58:34,830] {logging_mixin.py:104} INFO - [2021-05-01 13:58:34,829] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:58:34,850] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:58:34,862] {logging_mixin.py:104} INFO - [2021-05-01 13:58:34,862] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:58:34,873] {logging_mixin.py:104} INFO - [2021-05-01 13:58:34,873] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:58:34,956] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.135 seconds
+[2021-05-01 13:59:05,110] {scheduler_job.py:182} INFO - Started process (PID=12074) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:59:05,111] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:59:05,112] {logging_mixin.py:104} INFO - [2021-05-01 13:59:05,111] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:59:05,119] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:59:05,127] {logging_mixin.py:104} INFO - [2021-05-01 13:59:05,127] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:59:05,138] {logging_mixin.py:104} INFO - [2021-05-01 13:59:05,138] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:59:05,221] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 13:59:35,405] {scheduler_job.py:182} INFO - Started process (PID=12082) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:59:35,405] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 13:59:35,406] {logging_mixin.py:104} INFO - [2021-05-01 13:59:35,406] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:59:35,413] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 13:59:35,421] {logging_mixin.py:104} INFO - [2021-05-01 13:59:35,421] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 13:59:35,432] {logging_mixin.py:104} INFO - [2021-05-01 13:59:35,432] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 13:59:35,550] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.147 seconds
+[2021-05-01 14:00:05,672] {scheduler_job.py:182} INFO - Started process (PID=12089) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:00:05,673] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:00:05,673] {logging_mixin.py:104} INFO - [2021-05-01 14:00:05,673] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:00:05,680] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:00:05,688] {logging_mixin.py:104} INFO - [2021-05-01 14:00:05,688] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:00:05,734] {logging_mixin.py:104} INFO - [2021-05-01 14:00:05,734] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:00:05,817] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.147 seconds
+[2021-05-01 14:00:35,960] {scheduler_job.py:182} INFO - Started process (PID=12116) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:00:35,961] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:00:35,961] {logging_mixin.py:104} INFO - [2021-05-01 14:00:35,961] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:00:35,969] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:00:35,977] {logging_mixin.py:104} INFO - [2021-05-01 14:00:35,977] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:00:36,022] {logging_mixin.py:104} INFO - [2021-05-01 14:00:36,022] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:00:36,106] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.148 seconds
+[2021-05-01 14:01:06,247] {scheduler_job.py:182} INFO - Started process (PID=12122) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:01:06,248] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:01:06,248] {logging_mixin.py:104} INFO - [2021-05-01 14:01:06,248] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:01:06,255] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:01:06,264] {logging_mixin.py:104} INFO - [2021-05-01 14:01:06,263] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:01:06,309] {logging_mixin.py:104} INFO - [2021-05-01 14:01:06,309] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:01:06,317] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.072 seconds
+[2021-05-01 14:01:36,412] {scheduler_job.py:182} INFO - Started process (PID=12156) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:01:36,413] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:01:36,413] {logging_mixin.py:104} INFO - [2021-05-01 14:01:36,413] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:01:36,420] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:01:36,428] {logging_mixin.py:104} INFO - [2021-05-01 14:01:36,428] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:01:36,473] {logging_mixin.py:104} INFO - [2021-05-01 14:01:36,473] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:01:36,482] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.072 seconds
+[2021-05-01 14:02:06,601] {scheduler_job.py:182} INFO - Started process (PID=12162) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:02:06,602] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:02:06,602] {logging_mixin.py:104} INFO - [2021-05-01 14:02:06,602] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:02:06,609] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:02:06,617] {logging_mixin.py:104} INFO - [2021-05-01 14:02:06,617] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:02:06,662] {logging_mixin.py:104} INFO - [2021-05-01 14:02:06,662] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:02:06,670] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.071 seconds
+[2021-05-01 14:02:36,776] {scheduler_job.py:182} INFO - Started process (PID=12173) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:02:36,777] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:02:36,777] {logging_mixin.py:104} INFO - [2021-05-01 14:02:36,777] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:02:36,785] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:02:36,828] {logging_mixin.py:104} INFO - [2021-05-01 14:02:36,828] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:02:36,838] {logging_mixin.py:104} INFO - [2021-05-01 14:02:36,837] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:02:36,921] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.147 seconds
+[2021-05-01 14:03:07,064] {scheduler_job.py:182} INFO - Started process (PID=12179) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:03:07,065] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:03:07,065] {logging_mixin.py:104} INFO - [2021-05-01 14:03:07,065] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:03:07,073] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:03:07,116] {logging_mixin.py:104} INFO - [2021-05-01 14:03:07,116] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:03:07,126] {logging_mixin.py:104} INFO - [2021-05-01 14:03:07,125] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:03:07,206] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.144 seconds
+[2021-05-01 14:03:37,352] {scheduler_job.py:182} INFO - Started process (PID=12186) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:03:37,353] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:03:37,353] {logging_mixin.py:104} INFO - [2021-05-01 14:03:37,353] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:03:37,361] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:03:37,404] {logging_mixin.py:104} INFO - [2021-05-01 14:03:37,404] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:03:37,414] {logging_mixin.py:104} INFO - [2021-05-01 14:03:37,413] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:03:37,496] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.146 seconds
+[2021-05-01 14:04:07,617] {scheduler_job.py:182} INFO - Started process (PID=12192) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:04:07,617] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:04:07,618] {logging_mixin.py:104} INFO - [2021-05-01 14:04:07,618] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:04:07,625] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:04:07,667] {logging_mixin.py:104} INFO - [2021-05-01 14:04:07,667] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:04:07,677] {logging_mixin.py:104} INFO - [2021-05-01 14:04:07,677] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:04:07,761] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.146 seconds
+[2021-05-01 14:04:37,875] {scheduler_job.py:182} INFO - Started process (PID=12207) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:04:37,876] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:04:37,876] {logging_mixin.py:104} INFO - [2021-05-01 14:04:37,876] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:04:37,918] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:04:37,924] {logging_mixin.py:104} INFO - [2021-05-01 14:04:37,924] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:04:37,933] {logging_mixin.py:104} INFO - [2021-05-01 14:04:37,933] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:04:37,955] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.082 seconds
+[2021-05-01 14:05:08,054] {scheduler_job.py:182} INFO - Started process (PID=12212) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:05:08,055] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:05:08,056] {logging_mixin.py:104} INFO - [2021-05-01 14:05:08,056] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:05:08,102] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:05:08,109] {logging_mixin.py:104} INFO - [2021-05-01 14:05:08,109] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:05:08,119] {logging_mixin.py:104} INFO - [2021-05-01 14:05:08,119] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:05:08,198] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.146 seconds
+[2021-05-01 14:05:38,319] {scheduler_job.py:182} INFO - Started process (PID=12223) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:05:38,320] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:05:38,320] {logging_mixin.py:104} INFO - [2021-05-01 14:05:38,320] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:05:38,364] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:05:38,370] {logging_mixin.py:104} INFO - [2021-05-01 14:05:38,370] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:05:38,380] {logging_mixin.py:104} INFO - [2021-05-01 14:05:38,380] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:05:38,396] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.079 seconds
+[2021-05-01 14:06:08,505] {scheduler_job.py:182} INFO - Started process (PID=12248) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:06:08,505] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:06:08,506] {logging_mixin.py:104} INFO - [2021-05-01 14:06:08,506] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:06:08,549] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:06:08,555] {logging_mixin.py:104} INFO - [2021-05-01 14:06:08,555] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:06:08,565] {logging_mixin.py:104} INFO - [2021-05-01 14:06:08,565] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:06:08,649] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.146 seconds
+[2021-05-01 14:06:38,788] {scheduler_job.py:182} INFO - Started process (PID=12258) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:06:38,789] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:06:38,789] {logging_mixin.py:104} INFO - [2021-05-01 14:06:38,789] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:06:38,796] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:06:38,804] {logging_mixin.py:104} INFO - [2021-05-01 14:06:38,804] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:06:38,815] {logging_mixin.py:104} INFO - [2021-05-01 14:06:38,815] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:06:38,899] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.114 seconds
+[2021-05-01 14:07:09,061] {scheduler_job.py:182} INFO - Started process (PID=12263) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:07:09,062] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:07:09,062] {logging_mixin.py:104} INFO - [2021-05-01 14:07:09,062] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:07:09,070] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:07:09,078] {logging_mixin.py:104} INFO - [2021-05-01 14:07:09,078] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:07:09,088] {logging_mixin.py:104} INFO - [2021-05-01 14:07:09,088] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:07:09,173] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.114 seconds
+[2021-05-01 14:07:39,328] {scheduler_job.py:182} INFO - Started process (PID=12274) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:07:39,329] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:07:39,329] {logging_mixin.py:104} INFO - [2021-05-01 14:07:39,329] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:07:39,337] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:07:39,345] {logging_mixin.py:104} INFO - [2021-05-01 14:07:39,345] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:07:39,356] {logging_mixin.py:104} INFO - [2021-05-01 14:07:39,356] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:07:39,440] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.114 seconds
+[2021-05-01 14:08:09,584] {scheduler_job.py:182} INFO - Started process (PID=12470) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:08:09,585] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:08:09,585] {logging_mixin.py:104} INFO - [2021-05-01 14:08:09,585] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:08:09,593] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:08:09,601] {logging_mixin.py:104} INFO - [2021-05-01 14:08:09,601] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:08:09,611] {logging_mixin.py:104} INFO - [2021-05-01 14:08:09,611] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:08:09,696] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.114 seconds
+[2021-05-01 14:08:39,937] {scheduler_job.py:182} INFO - Started process (PID=12521) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:08:39,939] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:08:39,940] {logging_mixin.py:104} INFO - [2021-05-01 14:08:39,940] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:08:39,959] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:08:39,970] {logging_mixin.py:104} INFO - [2021-05-01 14:08:39,970] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:08:39,981] {logging_mixin.py:104} INFO - [2021-05-01 14:08:39,981] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:08:39,989] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.058 seconds
+[2021-05-01 14:09:10,118] {scheduler_job.py:182} INFO - Started process (PID=12645) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:09:10,119] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:09:10,119] {logging_mixin.py:104} INFO - [2021-05-01 14:09:10,119] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:09:10,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:09:10,143] {logging_mixin.py:104} INFO - [2021-05-01 14:09:10,143] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:09:10,155] {logging_mixin.py:104} INFO - [2021-05-01 14:09:10,155] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:09:10,163] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.048 seconds
+[2021-05-01 14:09:40,318] {scheduler_job.py:182} INFO - Started process (PID=12831) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:09:40,320] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:09:40,321] {logging_mixin.py:104} INFO - [2021-05-01 14:09:40,321] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:09:40,338] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:09:40,349] {logging_mixin.py:104} INFO - [2021-05-01 14:09:40,348] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:09:40,359] {logging_mixin.py:104} INFO - [2021-05-01 14:09:40,359] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:09:40,366] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.054 seconds
+[2021-05-01 14:10:10,492] {scheduler_job.py:182} INFO - Started process (PID=12915) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:10:10,492] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:10:10,493] {logging_mixin.py:104} INFO - [2021-05-01 14:10:10,493] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:10:10,500] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:10:10,509] {logging_mixin.py:104} INFO - [2021-05-01 14:10:10,508] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:10:10,519] {logging_mixin.py:104} INFO - [2021-05-01 14:10:10,519] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:10:10,532] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.042 seconds
+[2021-05-01 14:10:40,704] {scheduler_job.py:182} INFO - Started process (PID=13008) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:10:40,705] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:10:40,706] {logging_mixin.py:104} INFO - [2021-05-01 14:10:40,705] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:10:40,714] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:10:40,723] {logging_mixin.py:104} INFO - [2021-05-01 14:10:40,723] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:10:40,734] {logging_mixin.py:104} INFO - [2021-05-01 14:10:40,734] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:10:40,752] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.050 seconds
+[2021-05-01 14:11:10,874] {scheduler_job.py:182} INFO - Started process (PID=13015) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:11:10,875] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:11:10,875] {logging_mixin.py:104} INFO - [2021-05-01 14:11:10,875] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:11:10,883] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:11:10,891] {logging_mixin.py:104} INFO - [2021-05-01 14:11:10,891] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:11:10,902] {logging_mixin.py:104} INFO - [2021-05-01 14:11:10,902] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:11:10,916] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.044 seconds
+[2021-05-01 14:11:41,032] {scheduler_job.py:182} INFO - Started process (PID=13040) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:11:41,035] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:11:41,035] {logging_mixin.py:104} INFO - [2021-05-01 14:11:41,035] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:11:41,050] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:11:41,062] {logging_mixin.py:104} INFO - [2021-05-01 14:11:41,062] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:11:41,078] {logging_mixin.py:104} INFO - [2021-05-01 14:11:41,078] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:11:41,090] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.063 seconds
+[2021-05-01 14:12:11,195] {scheduler_job.py:182} INFO - Started process (PID=13151) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:12:11,195] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:12:11,196] {logging_mixin.py:104} INFO - [2021-05-01 14:12:11,196] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:12:11,205] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:12:11,214] {logging_mixin.py:104} INFO - [2021-05-01 14:12:11,213] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:12:11,224] {logging_mixin.py:104} INFO - [2021-05-01 14:12:11,224] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:12:11,309] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.116 seconds
+[2021-05-01 14:12:41,485] {scheduler_job.py:182} INFO - Started process (PID=13160) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:12:41,485] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:12:41,486] {logging_mixin.py:104} INFO - [2021-05-01 14:12:41,486] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:12:41,493] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:12:41,501] {logging_mixin.py:104} INFO - [2021-05-01 14:12:41,501] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:12:41,512] {logging_mixin.py:104} INFO - [2021-05-01 14:12:41,512] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:12:41,595] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 14:13:11,799] {scheduler_job.py:182} INFO - Started process (PID=13168) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:13:11,800] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:13:11,801] {logging_mixin.py:104} INFO - [2021-05-01 14:13:11,800] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:13:11,808] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:13:11,817] {logging_mixin.py:104} INFO - [2021-05-01 14:13:11,817] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:13:11,827] {logging_mixin.py:104} INFO - [2021-05-01 14:13:11,827] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:13:11,912] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.115 seconds
+[2021-05-01 14:13:42,095] {scheduler_job.py:182} INFO - Started process (PID=13240) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:13:42,099] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:13:42,100] {logging_mixin.py:104} INFO - [2021-05-01 14:13:42,100] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:13:42,118] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:13:42,129] {logging_mixin.py:104} INFO - [2021-05-01 14:13:42,129] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:13:42,140] {logging_mixin.py:104} INFO - [2021-05-01 14:13:42,140] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:13:42,158] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.069 seconds
+[2021-05-01 14:14:12,272] {scheduler_job.py:182} INFO - Started process (PID=13583) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:14:12,273] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:14:12,274] {logging_mixin.py:104} INFO - [2021-05-01 14:14:12,273] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:14:12,286] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:14:12,298] {logging_mixin.py:104} INFO - [2021-05-01 14:14:12,297] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:14:12,317] {logging_mixin.py:104} INFO - [2021-05-01 14:14:12,317] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:14:12,500] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.230 seconds
+[2021-05-01 14:14:42,646] {scheduler_job.py:182} INFO - Started process (PID=13640) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:14:42,648] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:14:42,649] {logging_mixin.py:104} INFO - [2021-05-01 14:14:42,649] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:14:42,668] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:14:42,679] {logging_mixin.py:104} INFO - [2021-05-01 14:14:42,679] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:14:42,690] {logging_mixin.py:104} INFO - [2021-05-01 14:14:42,690] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:14:42,774] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.134 seconds
+[2021-05-01 14:15:12,919] {scheduler_job.py:182} INFO - Started process (PID=13736) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:15:12,919] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:15:12,920] {logging_mixin.py:104} INFO - [2021-05-01 14:15:12,920] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:15:12,927] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:15:12,935] {logging_mixin.py:104} INFO - [2021-05-01 14:15:12,935] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:15:12,946] {logging_mixin.py:104} INFO - [2021-05-01 14:15:12,946] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:15:13,030] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds
+[2021-05-01 14:15:43,237] {scheduler_job.py:182} INFO - Started process (PID=13812) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:15:43,239] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:15:43,240] {logging_mixin.py:104} INFO - [2021-05-01 14:15:43,240] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:15:43,260] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:15:43,270] {logging_mixin.py:104} INFO - [2021-05-01 14:15:43,270] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:15:43,282] {logging_mixin.py:104} INFO - [2021-05-01 14:15:43,282] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:15:43,289] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.059 seconds
+[2021-05-01 14:16:13,427] {scheduler_job.py:182} INFO - Started process (PID=13847) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:16:13,429] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:16:13,430] {logging_mixin.py:104} INFO - [2021-05-01 14:16:13,430] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:16:13,449] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:16:13,459] {logging_mixin.py:104} INFO - [2021-05-01 14:16:13,459] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:16:13,470] {logging_mixin.py:104} INFO - [2021-05-01 14:16:13,470] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:16:13,552] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.132 seconds
+[2021-05-01 14:16:43,693] {scheduler_job.py:182} INFO - Started process (PID=13880) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:16:43,693] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:16:43,694] {logging_mixin.py:104} INFO - [2021-05-01 14:16:43,694] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:16:43,701] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:16:43,708] {logging_mixin.py:104} INFO - [2021-05-01 14:16:43,708] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:16:43,717] {logging_mixin.py:104} INFO - [2021-05-01 14:16:43,717] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:16:43,725] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.034 seconds
+[2021-05-01 14:17:13,864] {scheduler_job.py:182} INFO - Started process (PID=13897) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:17:13,866] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:17:13,867] {logging_mixin.py:104} INFO - [2021-05-01 14:17:13,867] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:17:13,886] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:17:13,898] {logging_mixin.py:104} INFO - [2021-05-01 14:17:13,898] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:17:13,908] {logging_mixin.py:104} INFO - [2021-05-01 14:17:13,908] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:17:13,918] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.059 seconds
+[2021-05-01 14:17:44,071] {scheduler_job.py:182} INFO - Started process (PID=13912) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:17:44,073] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:17:44,074] {logging_mixin.py:104} INFO - [2021-05-01 14:17:44,074] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:17:44,092] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:17:44,103] {logging_mixin.py:104} INFO - [2021-05-01 14:17:44,103] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:17:44,113] {logging_mixin.py:104} INFO - [2021-05-01 14:17:44,113] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:17:44,195] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.129 seconds
+[2021-05-01 14:18:14,364] {scheduler_job.py:182} INFO - Started process (PID=13915) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:18:14,365] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:18:14,365] {logging_mixin.py:104} INFO - [2021-05-01 14:18:14,365] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:18:14,373] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:18:14,381] {logging_mixin.py:104} INFO - [2021-05-01 14:18:14,381] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:18:14,391] {logging_mixin.py:104} INFO - [2021-05-01 14:18:14,391] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:18:14,474] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.112 seconds
+[2021-05-01 14:18:44,616] {scheduler_job.py:182} INFO - Started process (PID=13919) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:18:44,617] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:18:44,618] {logging_mixin.py:104} INFO - [2021-05-01 14:18:44,618] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:18:44,633] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:18:44,647] {logging_mixin.py:104} INFO - [2021-05-01 14:18:44,647] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:18:44,661] {logging_mixin.py:104} INFO - [2021-05-01 14:18:44,661] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:18:44,744] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.134 seconds
+[2021-05-01 14:19:14,931] {scheduler_job.py:182} INFO - Started process (PID=13935) to work on /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:19:14,932] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/airflow/dags/college_scoreboard.py for tasks to queue
+[2021-05-01 14:19:14,932] {logging_mixin.py:104} INFO - [2021-05-01 14:19:14,932] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:19:14,939] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['college_scoreboard']) retrieved from /home/chris/all_data/airflow/dags/college_scoreboard.py
+[2021-05-01 14:19:14,948] {logging_mixin.py:104} INFO - [2021-05-01 14:19:14,948] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-01 14:19:14,958] {logging_mixin.py:104} INFO - [2021-05-01 14:19:14,958] {dag.py:2280} INFO - Setting next_dagrun for college_scoreboard to 2021-05-01 00:00:00+00:00
+[2021-05-01 14:19:15,042] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/airflow/dags/college_scoreboard.py took 0.113 seconds

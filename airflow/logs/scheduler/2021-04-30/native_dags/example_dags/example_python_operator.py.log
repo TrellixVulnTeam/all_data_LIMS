@@ -1,0 +1,42 @@
+[2021-04-29 23:35:21,333] {scheduler_job.py:182} INFO - Started process (PID=13881) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:35:21,334] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-04-29 23:35:21,335] {logging_mixin.py:104} INFO - [2021-04-29 23:35:21,335] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:35:21,346] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:35:21,357] {logging_mixin.py:104} INFO - [2021-04-29 23:35:21,357] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:21,364] {logging_mixin.py:104} INFO - [2021-04-29 23:35:21,364] {dag.py:2280} INFO - Setting next_dagrun for example_python_operator to None
+[2021-04-29 23:35:21,381] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.053 seconds
+[2021-04-29 23:35:59,345] {scheduler_job.py:182} INFO - Started process (PID=13967) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:35:59,346] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-04-29 23:35:59,346] {logging_mixin.py:104} INFO - [2021-04-29 23:35:59,346] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:35:59,354] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:35:59,364] {logging_mixin.py:104} INFO - [2021-04-29 23:35:59,363] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:59,371] {logging_mixin.py:104} INFO - [2021-04-29 23:35:59,371] {dag.py:2280} INFO - Setting next_dagrun for example_python_operator to None
+[2021-04-29 23:35:59,456] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2021-04-29 23:36:30,225] {scheduler_job.py:182} INFO - Started process (PID=14008) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:36:30,227] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-04-29 23:36:30,228] {logging_mixin.py:104} INFO - [2021-04-29 23:36:30,228] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:36:30,245] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:36:30,257] {logging_mixin.py:104} INFO - [2021-04-29 23:36:30,257] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:30,265] {logging_mixin.py:104} INFO - [2021-04-29 23:36:30,265] {dag.py:2280} INFO - Setting next_dagrun for example_python_operator to None
+[2021-04-29 23:36:30,350] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.132 seconds
+[2021-04-29 23:37:00,994] {scheduler_job.py:182} INFO - Started process (PID=14063) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:37:00,996] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-04-29 23:37:00,997] {logging_mixin.py:104} INFO - [2021-04-29 23:37:00,997] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:37:01,019] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:37:01,031] {logging_mixin.py:104} INFO - [2021-04-29 23:37:01,031] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:01,038] {logging_mixin.py:104} INFO - [2021-04-29 23:37:01,038] {dag.py:2280} INFO - Setting next_dagrun for example_python_operator to None
+[2021-04-29 23:37:01,123] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.135 seconds
+[2021-04-29 23:37:31,911] {scheduler_job.py:182} INFO - Started process (PID=14160) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:37:31,913] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-04-29 23:37:31,914] {logging_mixin.py:104} INFO - [2021-04-29 23:37:31,914] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:37:31,932] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:37:31,943] {logging_mixin.py:104} INFO - [2021-04-29 23:37:31,943] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:31,951] {logging_mixin.py:104} INFO - [2021-04-29 23:37:31,950] {dag.py:2280} INFO - Setting next_dagrun for example_python_operator to None
+[2021-04-29 23:37:31,961] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.056 seconds
+[2021-04-29 23:38:02,833] {scheduler_job.py:182} INFO - Started process (PID=14285) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:38:02,835] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-04-29 23:38:02,836] {logging_mixin.py:104} INFO - [2021-04-29 23:38:02,836] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:38:02,856] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2021-04-29 23:38:02,868] {logging_mixin.py:104} INFO - [2021-04-29 23:38:02,868] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:38:02,876] {logging_mixin.py:104} INFO - [2021-04-29 23:38:02,875] {dag.py:2280} INFO - Setting next_dagrun for example_python_operator to None
+[2021-04-29 23:38:02,972] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.146 seconds

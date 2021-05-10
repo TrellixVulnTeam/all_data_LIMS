@@ -1,0 +1,49 @@
+[2021-04-29 23:35:12,646] {scheduler_job.py:182} INFO - Started process (PID=13863) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:12,648] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-04-29 23:35:12,649] {logging_mixin.py:104} INFO - [2021-04-29 23:35:12,649] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:12,670] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:12,682] {logging_mixin.py:104} INFO - [2021-04-29 23:35:12,682] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:12,690] {logging_mixin.py:104} INFO - [2021-04-29 23:35:12,690] {dag.py:2280} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-04-29 23:35:12,700] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2021-04-29 23:35:43,351] {scheduler_job.py:182} INFO - Started process (PID=13913) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:43,352] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-04-29 23:35:43,352] {logging_mixin.py:104} INFO - [2021-04-29 23:35:43,352] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:43,360] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:43,369] {logging_mixin.py:104} INFO - [2021-04-29 23:35:43,369] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:43,377] {logging_mixin.py:104} INFO - [2021-04-29 23:35:43,377] {dag.py:2280} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-04-29 23:35:43,386] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.037 seconds
+[2021-04-29 23:35:56,859] {scheduler_job.py:182} INFO - Started process (PID=13965) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:56,860] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-04-29 23:35:56,860] {logging_mixin.py:104} INFO - [2021-04-29 23:35:56,860] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:56,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:35:56,877] {logging_mixin.py:104} INFO - [2021-04-29 23:35:56,877] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:35:56,884] {logging_mixin.py:104} INFO - [2021-04-29 23:35:56,884] {dag.py:2280} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-04-29 23:35:56,968] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.111 seconds
+[2021-04-29 23:36:27,815] {scheduler_job.py:182} INFO - Started process (PID=14005) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:36:27,816] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-04-29 23:36:27,816] {logging_mixin.py:104} INFO - [2021-04-29 23:36:27,816] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:36:27,824] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:36:27,833] {logging_mixin.py:104} INFO - [2021-04-29 23:36:27,833] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:27,840] {logging_mixin.py:104} INFO - [2021-04-29 23:36:27,840] {dag.py:2280} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-04-29 23:36:27,927] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.114 seconds
+[2021-04-29 23:36:58,610] {scheduler_job.py:182} INFO - Started process (PID=14061) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:36:58,612] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-04-29 23:36:58,613] {logging_mixin.py:104} INFO - [2021-04-29 23:36:58,613] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:36:58,630] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:36:58,642] {logging_mixin.py:104} INFO - [2021-04-29 23:36:58,641] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:36:58,652] {logging_mixin.py:104} INFO - [2021-04-29 23:36:58,652] {dag.py:2280} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-04-29 23:36:58,739] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.135 seconds
+[2021-04-29 23:37:29,431] {scheduler_job.py:182} INFO - Started process (PID=14136) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:37:29,434] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-04-29 23:37:29,435] {logging_mixin.py:104} INFO - [2021-04-29 23:37:29,435] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:37:29,453] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:37:29,465] {logging_mixin.py:104} INFO - [2021-04-29 23:37:29,465] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:37:29,475] {logging_mixin.py:104} INFO - [2021-04-29 23:37:29,475] {dag.py:2280} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-04-29 23:37:29,564] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.140 seconds
+[2021-04-29 23:38:00,427] {scheduler_job.py:182} INFO - Started process (PID=14283) to work on /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:38:00,429] {scheduler_job.py:629} INFO - Processing file /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-04-29 23:38:00,429] {logging_mixin.py:104} INFO - [2021-04-29 23:38:00,429] {dagbag.py:451} INFO - Filling up the DagBag from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:38:00,442] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-04-29 23:38:00,453] {logging_mixin.py:104} INFO - [2021-04-29 23:38:00,453] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-29 23:38:00,461] {logging_mixin.py:104} INFO - [2021-04-29 23:38:00,461] {dag.py:2280} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-04-29 23:38:00,472] {scheduler_job.py:190} INFO - Processing /home/chris/all_data/.venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
